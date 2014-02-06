@@ -1,0 +1,4 @@
+{
+	"commands": ["ls -lc", "ssh -l imcgaunn cs.uml.edu"],
+	"directories": ["/Users/ianmcgaunn/Documents/node"]
+}
